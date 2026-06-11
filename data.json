@@ -1,0 +1,4303 @@
+{
+  "activities": [
+    {
+      "id": "mobility",
+      "name": "Mobilità e corpo libero",
+      "color": "#c75d37"
+    },
+    {
+      "id": "yoga",
+      "name": "Yoga dolce",
+      "color": "#6f7fbf"
+    },
+    {
+      "id": "nordic",
+      "name": "Nordic walking",
+      "color": "#0f7c65"
+    },
+    {
+      "id": "respiro",
+      "name": "Respiro al lago",
+      "color": "#4a88a8"
+    },
+    {
+      "id": "canoa-base-1781135766851",
+      "name": "Canoa - BASE",
+      "color": "#42fffc"
+    }
+  ],
+  "technicians": [
+    {
+      "id": "anna",
+      "name": "Anna Rossi"
+    },
+    {
+      "id": "marco",
+      "name": "Marco Bianchi"
+    },
+    {
+      "id": "elena",
+      "name": "Elena Verdi"
+    },
+    {
+      "id": "alessandro-basso-1781135487262",
+      "name": "Alessandro Basso"
+    },
+    {
+      "id": "daniele-molmenti-1781136102006",
+      "name": "Daniele Molmenti"
+    }
+  ],
+  "slots": [
+    {
+      "id": "52c41b58-e13b-46e7-ab86-af99a4603fde",
+      "date": "2026-06-08",
+      "spaceId": "fuoco",
+      "start": "09:00",
+      "end": "10:30",
+      "activityId": "mobility",
+      "technicianId": "marco",
+      "notes": "Circuito funzionale leggero"
+    },
+    {
+      "id": "f0a28165-9efa-4ff9-84e8-7b56ae6eff8e",
+      "date": "2026-06-09",
+      "spaceId": "aria",
+      "start": "18:00",
+      "end": "19:15",
+      "activityId": "yoga",
+      "technicianId": "anna",
+      "notes": "Sessione adatta a tutti"
+    },
+    {
+      "id": "2a5aca04-c90c-4402-8d39-c014c9438767",
+      "date": "2026-06-10",
+      "spaceId": "parco",
+      "start": "08:00",
+      "end": "09:30",
+      "activityId": "nordic",
+      "technicianId": "elena",
+      "notes": "Ritrovo ingresso parco"
+    },
+    {
+      "id": "80fc2231-d214-4d3e-801b-6f97b5081a94",
+      "date": "2026-06-12",
+      "spaceId": "lago",
+      "start": "07:30",
+      "end": "08:30",
+      "activityId": "respiro",
+      "technicianId": "anna",
+      "notes": "Pratica respiratoria sul pontile"
+    },
+    {
+      "id": "dd00c7b4-c370-4320-b535-5a7be38d3eda",
+      "date": "2026-06-13",
+      "spaceId": "fuoco",
+      "start": "11:00",
+      "end": "12:00",
+      "activityId": "mobility",
+      "technicianId": "marco",
+      "notes": ""
+    },
+    {
+      "id": "d6c85f9b-2aec-4a60-b105-471e4b9e9056",
+      "date": "2027-01-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "01482d75-3858-4322-9254-373c2691c3ba",
+      "date": "2027-01-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "883c8a37-6075-45fa-90bc-5102ef0ea87d",
+      "date": "2027-01-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0fb49248-1fe6-476a-b5a5-0befd184cce9",
+      "date": "2027-01-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2b37fca5-82bb-4e87-910b-3d381f7e8ad3",
+      "date": "2027-01-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "23add159-2960-4111-83ba-b241d1ac927a",
+      "date": "2027-01-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a184e83e-9bb4-4f6d-97bc-c61653f12278",
+      "date": "2027-01-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "72899509-9ff8-46c7-8f42-d76a48ae28ab",
+      "date": "2027-01-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5f57309d-8999-40c4-9451-ff6fb6d0c6f6",
+      "date": "2027-01-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9857c2e2-6c78-4e84-a569-661c0c3e88e1",
+      "date": "2027-01-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0d2b87d3-b376-4ee5-bdd7-15039520873f",
+      "date": "2027-02-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7dacc05f-a278-4e1e-9e4e-34a41146f650",
+      "date": "2027-02-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e35e0cb7-a344-430b-a262-d25787322d6e",
+      "date": "2027-02-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "120606ee-90ba-4afd-9814-6eefa6408197",
+      "date": "2027-02-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "18b1c3e0-aa79-4f5c-8e17-5540c2a55253",
+      "date": "2027-02-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ec423a8c-957e-422f-beeb-7bc961ce0128",
+      "date": "2027-02-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "53f4ffef-6ab5-4cef-ad4a-21e619134e86",
+      "date": "2027-02-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d4016a45-0d3a-468c-ae6a-ef188cf150b6",
+      "date": "2027-02-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3ab8ecd2-53f8-4bed-86ee-4b6e3e301a68",
+      "date": "2027-02-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c2d40d73-4e4b-415c-a7f4-9e4504ac9ebf",
+      "date": "2027-02-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "79c371e3-26ad-465d-ac0d-71829cc41500",
+      "date": "2027-02-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a716ce0d-1bf6-41f0-b3df-052ef02ffeba",
+      "date": "2027-02-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9f68764f-2408-4e72-91c9-7a420d8802ac",
+      "date": "2027-02-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e9e8224f-3212-4249-b236-c60c212dccb3",
+      "date": "2027-02-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "eb8ced6a-9b53-41b1-b5a4-19e4fb349c0a",
+      "date": "2027-02-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c94029ed-0289-4f07-b94c-0899be60cb56",
+      "date": "2027-02-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7c4b955c-4bd3-4168-9fa7-4e4e17aa2d91",
+      "date": "2027-02-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "021be624-8938-4a05-a94f-c0f42393cb4e",
+      "date": "2027-02-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "46ed87c0-2609-49aa-a8d2-b7a81953d429",
+      "date": "2027-02-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3c5e97cc-a877-4bde-b574-be0204db414d",
+      "date": "2027-02-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "60966c4b-0c04-4549-b133-0747edc5d4cd",
+      "date": "2027-03-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f8b0ef7f-b0a8-4415-b967-0b905921ece5",
+      "date": "2027-03-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "633d09a0-c14d-4490-ab3f-514208419b96",
+      "date": "2027-03-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f9a52832-4822-4f29-a38d-0dd706f7f122",
+      "date": "2027-03-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "10f6bf87-2271-4d6b-8964-171d4b1517c7",
+      "date": "2027-03-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0e7db56d-bf6c-403e-81ff-ca51241aa9e8",
+      "date": "2027-03-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "35b4d5f9-9cee-4c46-8f1d-924f68628bfd",
+      "date": "2027-03-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "625822a1-56b7-4114-a5ad-403a35d8221a",
+      "date": "2027-03-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fd5cdc23-055f-41ce-92b2-95206f27cfcf",
+      "date": "2027-03-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6059372d-860b-4f38-8709-55caf50c3427",
+      "date": "2027-03-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4b5a898a-e754-401e-9f48-b75ddd5d6d75",
+      "date": "2027-03-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4789394c-d528-4dcc-880e-e5f618768714",
+      "date": "2027-03-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a9b8c221-ffeb-47d0-aba0-c86e5a705ace",
+      "date": "2027-03-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e84b6c30-5620-4a28-82c2-7678a3ffdc93",
+      "date": "2027-03-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "abc58444-9072-4aa5-9f5e-2e9d909f2e86",
+      "date": "2027-03-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "25360dbf-66b7-4193-8d6e-8f0391322f4f",
+      "date": "2027-03-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2278ff9d-6edf-4399-adb4-84d4b533c344",
+      "date": "2027-03-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4ee056dd-a65d-414e-8b98-42db2129642b",
+      "date": "2027-03-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f507388a-6de7-4b32-81c5-6530ed03054f",
+      "date": "2027-03-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f37d1878-1217-4b16-8afd-fbf78652927e",
+      "date": "2027-03-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a73e4d4e-e245-470f-a290-2132767d7489",
+      "date": "2027-03-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a2250b11-dbb1-4df6-9ed2-6d9db4c66b93",
+      "date": "2027-03-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "30f1eb64-c376-499c-ae91-9d98123aa67b",
+      "date": "2027-03-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "db1990bd-e51c-4c40-9f36-0326a46656cd",
+      "date": "2027-04-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "faf7ee10-fd32-4724-b601-93ea2fbc302b",
+      "date": "2027-04-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7494521c-8d28-4bbd-ae24-1aad1aec42e6",
+      "date": "2027-04-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "95076de5-a6e2-4c69-8343-0c46d31715e0",
+      "date": "2027-04-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "850523d3-aa17-4559-8780-d41760032faf",
+      "date": "2027-04-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b67acbb5-6fe1-419c-a3c6-3728cda21e88",
+      "date": "2027-04-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8c19027f-9bf9-423b-afb0-94a799b9948c",
+      "date": "2027-04-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ca8a1ebc-b0c4-4dee-97b3-94c9df78eaeb",
+      "date": "2027-04-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1184ca89-616c-460b-bcca-d0f9b17d2cf3",
+      "date": "2027-04-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cfb0c996-7abc-40f6-99d5-c840694840d6",
+      "date": "2027-04-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f99dca21-24d3-4e2d-b0d5-ec652b31607a",
+      "date": "2027-04-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "295492f0-8266-43da-8184-4ec9bb60f2ec",
+      "date": "2027-04-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6f6abc66-a179-44f4-bc4f-cabf7af07692",
+      "date": "2027-04-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "dceb826c-4a11-4908-a6be-29cffda39076",
+      "date": "2027-04-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8f4e1ada-afe3-4c14-a940-1cca3be2abd0",
+      "date": "2027-04-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e5e7fbdd-6d78-4ed9-98d4-d7cfcf797676",
+      "date": "2027-04-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5c694fc2-a118-4f35-8ffc-3a34f5689842",
+      "date": "2027-04-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0bf247b2-e7a2-421a-9049-2604293b96d1",
+      "date": "2027-04-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8e656d39-56de-4f90-b8ea-6532ee02ff7f",
+      "date": "2027-04-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c2b0baa6-fa36-46b9-ba21-d7b5489cb2a0",
+      "date": "2027-04-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f83d472c-4e04-46f3-95a3-5975fb2b7864",
+      "date": "2027-04-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5a13bac8-172a-4819-9565-5a3117b341ca",
+      "date": "2027-04-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a848c79c-13f6-4449-b24a-a03d21f431ca",
+      "date": "2027-05-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "75c7bd09-488e-41d1-9604-8706274f3323",
+      "date": "2027-05-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f26de9de-33fc-4b05-9e14-c22867209e80",
+      "date": "2027-05-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "331f3a21-6ffb-491b-af3c-1af6b4be8d3e",
+      "date": "2027-05-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e9ab5269-f2d9-470d-810f-274700e8ed1c",
+      "date": "2027-05-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2fc142c0-4230-4c14-a64e-1d632b386750",
+      "date": "2027-05-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a0ff9f3c-7da2-4bf8-82b0-05231472254c",
+      "date": "2027-05-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "02a07fc6-3056-49c1-a5ea-1db9b1e65bd0",
+      "date": "2027-05-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d43fdbbd-18f4-435e-802d-142c403c9383",
+      "date": "2027-05-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "268defbb-86f6-434e-8a23-c51c53bd2d8e",
+      "date": "2027-05-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8262c228-54d4-48da-9af2-72999cf50223",
+      "date": "2027-05-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e9aa5867-92f7-4eb9-8011-30e0dfb79bea",
+      "date": "2027-05-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "62d3e37c-c2dd-48df-b954-38f6c2ede8ad",
+      "date": "2027-05-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e5f60b86-12c6-4e21-b4f9-1b69ecd4db48",
+      "date": "2027-05-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "14b3dba7-e0c1-4178-b785-16668ccc6edf",
+      "date": "2027-05-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5b3533dd-c293-4735-93d1-082d4fd99eee",
+      "date": "2027-05-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "87bb6fd5-3fd6-45b0-a78e-cd865285ec7e",
+      "date": "2027-05-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "27ccb5df-32b3-4d2a-b268-ba609cd8affa",
+      "date": "2027-05-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b544fd9e-e7dc-4edd-8115-c731b8d9c8b0",
+      "date": "2027-05-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bcf0ee78-8323-498f-8cf0-df0439a5f393",
+      "date": "2027-05-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d05278f5-3fdb-481b-921f-a68906b92c92",
+      "date": "2027-05-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f87b6f1e-fe2d-4111-ab42-bdfa57bcd6d6",
+      "date": "2027-06-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "06914bc9-734e-4af5-b7d4-c2d158fb43e9",
+      "date": "2027-06-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "27a6cf50-69ee-4ef1-be2f-414d3a87604a",
+      "date": "2027-06-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8f7bfe7b-c481-44f5-a726-d6fb487e71aa",
+      "date": "2027-06-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d5549ab0-5978-47a3-987b-e6ae350297c5",
+      "date": "2027-06-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "21b4a41e-5b1e-41db-be66-742209a6a082",
+      "date": "2027-06-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "54072f27-baaa-4caa-b321-853bcc8fa6b2",
+      "date": "2027-06-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7d18a279-8616-4607-a2d9-4eedc2395cbb",
+      "date": "2027-06-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1f33d22f-8580-4a89-85ae-92cf4c0d5180",
+      "date": "2027-06-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ffa80d83-c465-4706-99da-5840293bc7ed",
+      "date": "2027-06-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0bcce005-bbc1-4b40-a997-1d3648e593cc",
+      "date": "2027-06-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7f9845c2-b5d6-44d2-a316-56b08fb03c7a",
+      "date": "2027-06-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fafdec57-c66a-444d-ac89-b9b9e4b0e3b7",
+      "date": "2027-06-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5c90e0c6-3b2b-4c52-80dd-248af2d49c0d",
+      "date": "2027-06-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "706f037c-0899-4698-8a21-4ad7e2e59273",
+      "date": "2027-06-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0c58b582-7a27-4df2-8273-3f957afea559",
+      "date": "2027-06-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c92160e6-d6ee-4a5e-89f0-0c154d024b82",
+      "date": "2027-06-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "30798e6b-dfa2-45fc-bffc-bb90c73b8252",
+      "date": "2027-06-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "15606cf0-ac33-48b1-b650-710131051dee",
+      "date": "2027-06-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "33376171-e8a3-48ed-85e4-70dfd43e1e28",
+      "date": "2027-06-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5f200fae-d5cc-4463-aeb0-907301a02580",
+      "date": "2027-06-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bd0fd6c4-d215-427c-987d-5c8d3fff55a1",
+      "date": "2027-06-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "09babdc9-3e8e-40f6-9f88-ad0b3e6bd54f",
+      "date": "2027-07-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "00ead0d7-2632-463f-9232-64ca6c0e0580",
+      "date": "2027-07-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "14a2fd41-743e-4eb4-a61c-7ef3bd17af40",
+      "date": "2027-07-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "df28c76f-2388-4a96-b223-d6046ef22468",
+      "date": "2027-07-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9238e1e6-895d-467d-ac57-6257c900e618",
+      "date": "2027-07-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "99a17847-da39-4a12-910b-5046842b54b6",
+      "date": "2027-07-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bd3f0942-1b83-4142-87d0-decd95434fe4",
+      "date": "2027-07-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "mobility",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "badd66bb-b419-4e9a-9e59-a15631c87a63",
+      "date": "2026-07-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1b408b8e-2bfa-49bf-9557-77704d018e3d",
+      "date": "2026-07-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b8d69d7b-466b-4b81-9741-0e9e5ab7fe6e",
+      "date": "2026-07-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e861c10f-623d-4899-899f-a5469d8ea9b2",
+      "date": "2026-07-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cc78915b-e449-447a-9e98-1adeec86729b",
+      "date": "2026-07-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5730887e-76d6-4823-ba83-6bb755d680a3",
+      "date": "2026-07-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5c77e2a8-8894-4b13-800a-175a4a6ff0a8",
+      "date": "2026-07-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "295c77b2-036e-497a-b11c-94fc13b96881",
+      "date": "2026-07-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2708d2a7-5289-4b9e-9e34-f6ec3e73a0b3",
+      "date": "2026-07-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "27da43d6-30b2-4ca7-ab97-ef1d714b113c",
+      "date": "2026-07-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0b654e7f-8046-457c-89eb-b7e91f3de7ef",
+      "date": "2026-07-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "210bce6a-c9e2-43e1-8787-76360149e71a",
+      "date": "2026-07-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3366cfd6-a931-4786-a17e-e26f4478832d",
+      "date": "2026-07-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e493aafc-0683-40cd-a8ee-92e3172cc33e",
+      "date": "2026-07-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f3799e29-e9dd-4628-abf5-b025b251e042",
+      "date": "2026-07-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "da7f06ac-2cb9-450a-878c-d845250b81d6",
+      "date": "2026-07-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0e0c52a0-dd88-4afb-b867-cbc1f9c38973",
+      "date": "2026-07-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "75b24ee3-316e-47a7-bc03-dcdec11170a0",
+      "date": "2026-07-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "77734215-f450-4cd3-b1c5-49729083ca3b",
+      "date": "2026-07-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ca994a55-fc22-4dc5-97f1-1f629b3cfedf",
+      "date": "2026-07-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9e34519e-726c-4de9-847b-281ceb8b2f01",
+      "date": "2026-07-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8c41ec64-1131-45d2-b2c8-d7a4f4d89a61",
+      "date": "2026-08-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1885f31a-c454-4fa4-aec3-898500d20a79",
+      "date": "2026-08-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "156a5098-a3d8-4284-89cb-d4202434ba59",
+      "date": "2026-08-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cf527eb5-d807-4106-b52c-b70f7280db39",
+      "date": "2026-08-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "85063427-ca8e-4926-aa1c-698c04aca2af",
+      "date": "2026-08-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f60e3b09-6791-48e5-8caa-9db326c94bd2",
+      "date": "2026-08-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6d5cb3e5-18db-4d0d-9f30-765fcc9cb4bf",
+      "date": "2026-08-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c2aebd7f-2266-4918-bbcb-72943f0bff8b",
+      "date": "2026-08-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bded53f5-3e66-4050-99c3-f27d5c6f12c1",
+      "date": "2026-08-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "eedf7bb0-541e-40bf-9eb5-59fbb79356b7",
+      "date": "2026-08-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c479899b-ae3a-4ba5-8802-e649d483c55b",
+      "date": "2026-08-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f54f58d5-0443-4fcc-a97a-bc9a0cb1818b",
+      "date": "2026-08-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ec2592e6-8c28-4595-8f2e-6ce6484f25ad",
+      "date": "2026-08-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d08e8e41-bbc7-4d66-9a56-f6a2596cf34a",
+      "date": "2026-08-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "15850c24-619c-41eb-a8dd-f6affd967f42",
+      "date": "2026-08-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6ba0a5e1-8569-4215-b19e-0d215b03a787",
+      "date": "2026-08-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ff464e22-c737-49e7-99c7-5fbda578d2cf",
+      "date": "2026-08-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "12329e21-b6de-476f-ab3f-624d24d0b755",
+      "date": "2026-08-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3bd382cb-6c9b-4197-acec-4d1a6db9149c",
+      "date": "2026-08-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "923be54a-00bf-414a-a210-74399803db2b",
+      "date": "2026-08-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7d5ef607-ed70-4d63-8b2b-1e47a212f1c0",
+      "date": "2026-08-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0d89baa7-e830-49e2-838e-4dcf9807dad5",
+      "date": "2026-09-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d5090d46-c812-494f-8937-58de311860db",
+      "date": "2026-09-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fa4ec55a-f590-4509-acd5-b4cde34fe600",
+      "date": "2026-09-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e274f216-ae6d-47d8-8b37-97150fc0333a",
+      "date": "2026-09-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5a672798-5cf9-4c97-8502-ddd3c114a685",
+      "date": "2026-09-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9c9adfe7-6be7-4982-8e6b-e449085d489c",
+      "date": "2026-09-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b8a5fa1e-8b78-4db8-b78e-98282d3ad2fb",
+      "date": "2026-09-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "21a4ef73-b80c-4cfa-8fc2-091121951790",
+      "date": "2026-09-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6ecc9ffe-901e-4b88-a3ef-60448d4f37ae",
+      "date": "2026-09-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "53e63cee-b37b-4447-a581-beb83598f438",
+      "date": "2026-09-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b8edc016-221a-47f1-8b86-286c3a887e10",
+      "date": "2026-09-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6f9ee867-9b79-419e-9550-908d4d4ed79d",
+      "date": "2026-09-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "26e98249-9f22-4bd5-a791-a5f854eed6e2",
+      "date": "2026-09-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d0a25f9b-3ff8-40f2-b9c1-d406ca8b84e8",
+      "date": "2026-09-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4123562d-9063-4229-a7a1-4a2bc36a2948",
+      "date": "2026-09-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cc46b77a-e73e-4e7a-8d4c-8f33c2ca4ef6",
+      "date": "2026-09-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "485d5ead-19a8-4318-a566-81a5698af9a5",
+      "date": "2026-09-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "87f322ab-8a15-49d1-a7d1-6dbd6ded53e1",
+      "date": "2026-09-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bfad42d7-ddd0-4f3c-873e-5c8df423bd6f",
+      "date": "2026-09-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4f59af3e-5c51-4498-b31c-9d606acc342f",
+      "date": "2026-09-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e14cfbf1-e44b-402f-a9f9-8d70ca763495",
+      "date": "2026-09-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a0224dd5-f80c-4d15-b656-de360677df92",
+      "date": "2026-09-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e8ea1618-8614-45cf-82fd-e16fa97be80b",
+      "date": "2026-10-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fe680645-9af1-4539-abd3-b3dd4a8c6fd7",
+      "date": "2026-10-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3f2729b0-e44d-4407-94e5-2cbe6b5d19ff",
+      "date": "2026-10-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f001b4d8-832a-4653-9428-a26c635d8596",
+      "date": "2026-10-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3cb29781-0e95-4b85-9dfa-a9d4be6f8958",
+      "date": "2026-10-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3bac53fa-40d2-442c-8af5-cdd1652d3963",
+      "date": "2026-10-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b0ca3f12-85ed-439d-a320-77418c550a97",
+      "date": "2026-10-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d5a596e5-4bd0-46c7-a073-9df5cfc229eb",
+      "date": "2026-10-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0a4c44e1-85c9-488b-96aa-031b22948447",
+      "date": "2026-10-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "083da85f-e92d-4b01-bfe1-19e71e944330",
+      "date": "2026-10-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6f33190b-bf47-42a0-84ef-1312a1954fca",
+      "date": "2026-10-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e4bebc05-f477-43e8-9c3f-0edcdf23e871",
+      "date": "2026-10-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7436d952-6d48-417b-9d93-90be0df46645",
+      "date": "2026-10-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d3219b64-fe1d-4ebf-ab81-55608b514793",
+      "date": "2026-10-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6ca52edd-0eb5-477c-94cf-850975a09ef7",
+      "date": "2026-10-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c24ed33a-d976-4716-ae3d-f7fa0dcbb1fb",
+      "date": "2026-10-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2cab8f2e-d96d-476e-9303-dd0d4c5dc8d8",
+      "date": "2026-10-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6d642fb2-dfbf-4840-a8a0-6c1ea7979eb1",
+      "date": "2026-10-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0a62685e-663b-441a-b081-31547b67ebfc",
+      "date": "2026-10-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "93ff95b6-4fe5-4b27-99bf-c361b9c57437",
+      "date": "2026-10-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2c302d4f-0bdb-4547-af20-f4b62447a416",
+      "date": "2026-10-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f944d4b7-d00f-4d26-aef0-66f30f192099",
+      "date": "2026-10-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "eb85e7a2-4a06-4e91-9559-d5eda4a2e8da",
+      "date": "2026-11-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d051583b-d24b-4be0-a38a-93329527a980",
+      "date": "2026-11-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "68f0a934-e8ba-4d3d-9e67-c62f693861e0",
+      "date": "2026-11-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "03a2aef4-70db-4afd-8cde-25e8da7eb3f4",
+      "date": "2026-11-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "935066bb-f90f-4c4d-b8b9-bccd6fc6d9e3",
+      "date": "2026-11-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "eb96d8ad-8ec9-4e3d-8191-e003a5cb56da",
+      "date": "2026-11-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "029254bc-c141-4566-9902-de58eabb4add",
+      "date": "2026-11-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d528f5cc-2d4a-4581-9042-c09b45c58262",
+      "date": "2026-11-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "202fc153-31a2-4f82-bbad-2d4490c3f13f",
+      "date": "2026-11-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "947a6e2f-720f-40f2-a05a-45a633ab07c4",
+      "date": "2026-11-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0031115a-98b1-435d-93f9-20e26e7fc189",
+      "date": "2026-11-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b1b1a99e-3e12-425f-8acf-21421c27c8ed",
+      "date": "2026-11-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4a8a1775-4704-469d-ac08-fce3d46fbe36",
+      "date": "2026-11-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "86abd54c-a0f2-45d1-b5ef-2e5bdbdbb4c6",
+      "date": "2026-11-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "54fd2acb-2410-4f25-a8cb-84f17e5b1bd3",
+      "date": "2026-11-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2b380079-9470-462e-abeb-6f6824358c4e",
+      "date": "2026-11-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f940ce1d-23ed-4aba-9a83-278aebfb5a46",
+      "date": "2026-11-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "075c1dea-4130-4e26-a3dc-25056d582739",
+      "date": "2026-11-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "dcdfa238-0829-4733-8e2b-b31bf4c78e8d",
+      "date": "2026-11-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e43a1b28-cc34-48c1-853a-045c153ac9a8",
+      "date": "2026-11-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b47e87f3-121e-4c92-9f2a-42634a80e1bf",
+      "date": "2026-11-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "36aa2c90-ca05-4dd9-bd69-1b40b7b04500",
+      "date": "2026-12-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1d40e204-27cd-4a9a-8d81-9ac6d8138e2b",
+      "date": "2026-12-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "afd86c47-19a4-444b-8139-530259573117",
+      "date": "2026-12-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ef31a09d-19f6-44e8-87f0-ca020ead981b",
+      "date": "2026-12-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6c048da0-2139-4e1f-b1c7-f19666851a2b",
+      "date": "2026-12-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "86067fef-5973-462a-bfb3-c3ffb410a33f",
+      "date": "2026-12-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3cc2058b-8844-4dd6-a5fc-74ad8d261c17",
+      "date": "2026-12-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5e5d436a-061c-4000-80a8-e28f637b78e6",
+      "date": "2026-12-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "64fdaa62-2c04-4e8b-a61e-9543c7453c8b",
+      "date": "2026-12-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4d7a6d53-716c-44e9-b0a3-bd7aee488936",
+      "date": "2026-12-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "747c41a2-72a0-4999-839a-bd9eaf8753d3",
+      "date": "2026-12-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a63be43e-4a78-4b86-b2a3-489441a59478",
+      "date": "2026-12-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "113cba7d-cc07-4917-97df-d0d0d488cf9a",
+      "date": "2026-12-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "59aaa2bd-f21c-4444-8a9b-60532ef3d3aa",
+      "date": "2026-12-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "583702f4-83bd-49e5-8af1-bd4c17a127fb",
+      "date": "2026-12-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b0d26141-8959-4310-89f8-f34272027f54",
+      "date": "2026-12-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "34acf838-8996-44af-a105-d3526bf6b81f",
+      "date": "2026-12-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "66bfe182-b52e-4928-a40d-f154db1695ae",
+      "date": "2026-12-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2b4ceafc-26fc-4c16-a0f2-adb7366e1029",
+      "date": "2026-12-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6f8241fc-2a3d-4295-ae63-676b7cb916c2",
+      "date": "2026-12-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b4a92f28-fd7f-490a-bc99-ab38ccb8f0fb",
+      "date": "2026-12-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c0390842-39ae-4eca-b43a-263aa31a0423",
+      "date": "2026-12-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bffb7d13-e342-4902-bdf1-681a89089428",
+      "date": "2026-12-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d4c58a27-eb1a-40a1-9444-9df0ef0f0992",
+      "date": "2027-01-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e4ca8389-19d0-4209-895f-13e816278833",
+      "date": "2027-01-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d81489df-ccaa-4f07-8c14-9769c584067b",
+      "date": "2027-01-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b855b2ae-b90b-4488-ac70-e3d52476c644",
+      "date": "2027-01-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d1a8c604-05bd-4c20-82ec-71ac0189899c",
+      "date": "2027-01-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9607c822-6965-467a-889b-018d8c7d7849",
+      "date": "2027-01-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "46e5e6bb-fca9-4e2d-84e8-e9202f29ba3a",
+      "date": "2027-01-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4c9b7ccd-d725-4265-80f7-9ce5334cfe02",
+      "date": "2027-01-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b6aa0c63-165f-4841-8727-6987a8edabd3",
+      "date": "2027-01-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "136370a9-d2e9-4c40-86b0-14d07909a5fd",
+      "date": "2027-01-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "69fd27fd-7385-48d9-a5ce-a2aaa6399fdb",
+      "date": "2027-01-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1aaf1d8f-075f-4c85-a48c-71cd952cc8a2",
+      "date": "2027-01-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "745d4684-65ad-4633-9776-98c769abfeb3",
+      "date": "2027-01-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9cf2c3fe-483d-4a46-ac00-b29210abbcf5",
+      "date": "2027-01-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7e85aaeb-92c0-4403-9206-fa0eaa8b509e",
+      "date": "2027-01-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "bc9023c3-8389-42dc-88d1-af96c575aafa",
+      "date": "2027-01-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4e5111b9-dfe7-480d-a836-eb6a516d3c20",
+      "date": "2027-01-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6fb86750-6c56-495d-84d4-b4474b7be564",
+      "date": "2027-01-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "97b1a3c8-aff2-4182-ba6f-88b708fb1dc9",
+      "date": "2027-01-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "13bff736-bc28-450a-89b0-205673687881",
+      "date": "2027-01-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a47ae4f1-a491-4516-b7fc-d9721ac11ec2",
+      "date": "2027-01-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c84d9a86-bab9-476a-809a-a7a65711d93b",
+      "date": "2027-02-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "348d0a0c-6579-4a76-a10d-708211c032f4",
+      "date": "2027-02-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d013ab86-026b-4aa1-973f-283494f33f10",
+      "date": "2027-02-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f8591e8d-ef1b-479f-97dc-b56dad80c760",
+      "date": "2027-02-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2e5bda95-766b-4214-ac59-f9a2047d4848",
+      "date": "2027-02-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1f168702-6ba7-4b64-882f-6c3a3b5e7bab",
+      "date": "2027-02-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c5f0d23d-6463-42c6-bb98-d6ce5686835e",
+      "date": "2027-02-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "54ca7d2d-c0fe-44dc-8a40-c805576ce14e",
+      "date": "2027-02-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5c4eaf9b-dea2-4358-920e-57726b73fb76",
+      "date": "2027-02-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1ff76b83-6e8f-43ce-b510-1ca71e56cbb6",
+      "date": "2027-02-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cfef4c66-4b4a-44db-b233-e65790815bc4",
+      "date": "2027-02-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6ac43fb7-faa9-4452-a4bd-34084df2fcad",
+      "date": "2027-02-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6a0352f0-fc82-485d-8283-0f6ad7feb383",
+      "date": "2027-02-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ff0356d0-4e5f-4ad4-ad51-c863c0497eef",
+      "date": "2027-02-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cb1b02b7-925e-4268-bfa7-1ea6d98930f6",
+      "date": "2027-02-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b78a14f0-4add-4cb6-a9c6-53d6eacc0328",
+      "date": "2027-02-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7f4f03bd-f4e7-4e55-850d-6d1f95cde9be",
+      "date": "2027-02-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "eac4a39d-5747-4789-81a6-df169a4772be",
+      "date": "2027-02-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0c1a9a0e-186e-4349-98bc-c8be4028d62a",
+      "date": "2027-02-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "37ae76e3-ed42-47a0-9125-56669c5a21bd",
+      "date": "2027-02-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d12051c8-ea42-474f-bcfd-94f58c52355b",
+      "date": "2027-03-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "380a4db0-f36f-4a0c-affa-cabc0b806a9d",
+      "date": "2027-03-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "254d6389-92fc-4905-a94d-d441a1a631f4",
+      "date": "2027-03-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4def7c1d-cce5-414b-a469-1b2f32c3031b",
+      "date": "2027-03-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7e45e051-5893-43f4-ba46-d7b482eb1c60",
+      "date": "2027-03-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "16c0ad0a-34bb-4079-a575-be0fa6efc924",
+      "date": "2027-03-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9e9a9fb5-ea83-4d86-80f6-0417c4bde788",
+      "date": "2027-03-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "967a9712-a268-4711-b66a-c634331af664",
+      "date": "2027-03-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "62036800-b6ed-4c6c-be1d-61d8f5a94065",
+      "date": "2027-03-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "cce4f8f2-0ef5-458b-bb58-90673284bfe3",
+      "date": "2027-03-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e0167b0d-46cb-44c6-9b48-a3324a24e6d7",
+      "date": "2027-03-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1af27d0a-8dbf-4941-84ca-ea564c77cc10",
+      "date": "2027-03-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "1f207433-de9e-418b-970f-c6dffcde8bf7",
+      "date": "2027-03-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "30b66e20-5769-4bb4-b6b2-683210605025",
+      "date": "2027-03-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "21ae12a7-32e2-4ebf-9e97-d57badbe9859",
+      "date": "2027-03-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e12eb372-a60e-46cf-b44d-c17d578904e5",
+      "date": "2027-03-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3a753c11-4518-494c-aba4-a449d5d739dc",
+      "date": "2027-03-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f741a5d5-77fa-484e-9abc-5b09b3f1b60b",
+      "date": "2027-03-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0bba6106-dc87-4105-8815-3f51e7838d62",
+      "date": "2027-03-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9ee33788-17a4-4566-9a9e-3e5fb21d64ee",
+      "date": "2027-03-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fbd41808-e3da-4cf1-8db9-86c30737bd59",
+      "date": "2027-03-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "2537925d-5146-4ba2-b782-aba7179a7b10",
+      "date": "2027-03-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5b143589-e5ef-4957-937a-0a8e30df3b80",
+      "date": "2027-03-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d00460d4-bf4e-4a15-a734-b31dd65a79e0",
+      "date": "2027-04-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "6837059b-454c-4647-b166-d455c4cde036",
+      "date": "2027-04-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c5530ede-8b05-4dca-9bdb-55ce76bf5ca4",
+      "date": "2027-04-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "5ef0e22e-eea9-4fa8-aa72-33770bb41f77",
+      "date": "2027-04-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b5a26bd1-9d62-4751-a9dc-1edf1535c844",
+      "date": "2027-04-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b7e9d542-3146-462d-8f74-0d8bf7ceca1c",
+      "date": "2027-04-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e7604d9a-6002-495c-a247-75fa51f432cd",
+      "date": "2027-04-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "727aacb8-8a86-457c-a8c5-4454de9be183",
+      "date": "2027-04-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "66d68818-c65f-477d-86f1-27b565dca867",
+      "date": "2027-04-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "484734a6-f2ee-46c7-b001-b0ad36d883d1",
+      "date": "2027-04-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "9da9e3f9-1a18-40f4-8656-f20ee4abc201",
+      "date": "2027-04-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "d0b740b5-8834-4fb7-8cc5-c99910e7df62",
+      "date": "2027-04-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a2c43ee4-1e45-4d9f-8a21-ea8641a9d900",
+      "date": "2027-04-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "892a49fc-c832-4359-a6e8-6b4ed78ec9da",
+      "date": "2027-04-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "425e14de-b7c4-4863-93c8-2ed8ef7ae995",
+      "date": "2027-04-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0001a46e-d06e-4e90-84e5-b4ec4422388b",
+      "date": "2027-04-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "893d9e17-6673-41d5-9337-6842b8a4e21b",
+      "date": "2027-04-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "85025bdf-fec7-4a87-8a81-325b28010886",
+      "date": "2027-04-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0d3905b6-fec9-42df-a897-afb64124d73d",
+      "date": "2027-04-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "abf97197-ce93-4a1e-9b8f-601846652879",
+      "date": "2027-04-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "39ab3172-70f8-440a-a3dd-76fbd9593935",
+      "date": "2027-04-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "47ac2b0a-2768-4903-b39b-2b7c3c24a579",
+      "date": "2027-04-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "28d9bb58-44e0-49ed-a6b7-6e0c8d76654c",
+      "date": "2027-05-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c969fec0-4de4-4f72-b223-dd9b66e7928c",
+      "date": "2027-05-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e41a46a6-1918-4ab3-8602-88701493cf39",
+      "date": "2027-05-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "39cbd067-b052-4579-9fd9-94f06a3881b4",
+      "date": "2027-05-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b5c44e0c-73d0-45e9-99f1-b2a8832c54fb",
+      "date": "2027-05-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "63e7be56-ad81-4a88-84a7-675a3350be88",
+      "date": "2027-05-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0d3a5bdb-819a-4fc2-a35b-53f44bff1685",
+      "date": "2027-05-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a2c257d1-88a7-43c3-bbee-fdb9236cfcc9",
+      "date": "2027-05-12",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8b974a4e-b264-490f-9587-d79660e8dd98",
+      "date": "2027-05-13",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e2c77941-fef9-41cb-9f11-c62ff0f683ee",
+      "date": "2027-05-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "38d0513f-5223-4333-b8e7-3b0059ef45c9",
+      "date": "2027-05-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4a053300-1004-44ac-9bc4-d86b0a5c4752",
+      "date": "2027-05-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8faf3102-01fd-452e-bc0c-960d0bac017b",
+      "date": "2027-05-19",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c48b4f5c-7143-4e6a-bd85-4919cff3bda5",
+      "date": "2027-05-20",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "19e01d34-094f-467c-b920-e121e7d0450e",
+      "date": "2027-05-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "0592458c-1326-4b82-a983-c14b7c4826c6",
+      "date": "2027-05-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "80d94ffe-ec2d-488a-9cd4-5438c1129b0e",
+      "date": "2027-05-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "64524bd6-df34-41ba-aaa5-390bf7627c3a",
+      "date": "2027-05-26",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "74b798ad-0fd8-4b58-92f9-1c2451999790",
+      "date": "2027-05-27",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c95993cd-0694-47d3-bf14-ad9f0d50bdda",
+      "date": "2027-05-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "92ae7f22-44cd-4a24-a6a0-698191e52cd2",
+      "date": "2027-05-31",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "16bf03cf-39ee-4aa0-befa-e698f2719b28",
+      "date": "2027-06-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "b311b2fc-791b-4983-a4c6-2f2dd25d029a",
+      "date": "2027-06-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f2c86bcc-faf8-4a36-88a9-d34b6211b27b",
+      "date": "2027-06-03",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "e574da0c-fd54-480f-9235-a3e595df5f5d",
+      "date": "2027-06-04",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f804dc5a-4f77-4202-a16c-d0eb7cd4ec76",
+      "date": "2027-06-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "8595d52c-c8c2-42f2-863a-05c1c4ce3b1a",
+      "date": "2027-06-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "563a0970-ae6e-476f-b144-be342d23f5b3",
+      "date": "2027-06-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "469218a6-e9b3-4c0c-b53c-24cbeb20e87e",
+      "date": "2027-06-10",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "7b8a9df7-7bef-4294-9089-dc519e47caf7",
+      "date": "2027-06-11",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "05180ad6-3676-4c7d-a345-06f01350488d",
+      "date": "2027-06-14",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3e5a218a-f565-41b4-8415-e84db2d0c17f",
+      "date": "2027-06-15",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ac52de55-6e67-40d9-8369-201365974020",
+      "date": "2027-06-16",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fa8e0ff9-4b55-4e3b-8490-5db83eb5db47",
+      "date": "2027-06-17",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "efcd6a0b-3d8b-48a0-88a0-12514c66543d",
+      "date": "2027-06-18",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "53033f18-35e8-460e-b9f6-7ff58c66d92a",
+      "date": "2027-06-21",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "97967c26-ce6b-489b-87f2-52079ebdf026",
+      "date": "2027-06-22",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "3a2981b9-82c4-4283-8107-b8699b863f0f",
+      "date": "2027-06-23",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "784e9128-ad3e-4fb7-b4cc-8f4bf7f0f9ab",
+      "date": "2027-06-24",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "06d3e454-646a-46b2-a3c0-6610982f3c98",
+      "date": "2027-06-25",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "249c7f6d-0aca-4b1e-85c0-582fa8dd667a",
+      "date": "2027-06-28",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "4d860a1e-ddc1-45c0-8e7a-b8c9bb80292e",
+      "date": "2027-06-29",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "092d4d74-9f8b-4369-bc88-5cd7dd44fbcf",
+      "date": "2027-06-30",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "ad8b2784-5927-49aa-af16-b4b68f1fb66f",
+      "date": "2027-07-01",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "f7d6ee99-77f7-44ba-a543-34e79078ff3b",
+      "date": "2027-07-02",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c5c6c16c-5fdb-42c3-8156-3e495783cc4a",
+      "date": "2027-07-05",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "c00aa65a-84e0-4418-a7b9-2a39010a2943",
+      "date": "2027-07-06",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "901dfb48-43ad-4d9e-a1ff-e3960a5a6ebc",
+      "date": "2027-07-07",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "49e0a9f8-6e86-463e-be54-df6f74c61412",
+      "date": "2027-07-08",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "a8da40f8-697c-4378-99a3-ca798cd48b08",
+      "date": "2027-07-09",
+      "spaceId": "lago",
+      "start": "14:00",
+      "end": "16:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "alessandro-basso-1781135487262",
+      "notes": ""
+    },
+    {
+      "id": "fd046324-2d83-4590-bdcf-0f8d22c142d3",
+      "date": "2026-06-11",
+      "spaceId": "aria",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "mobility",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "131d5f64-bf24-438e-8604-87532cc30615",
+      "date": "2026-06-13",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "615f3b20-569a-4e32-828a-66f97cfeb03d",
+      "date": "2026-06-14",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "57953fb3-4a21-4159-920a-a2dc90da02db",
+      "date": "2026-06-20",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "6201a714-aaef-4a6e-97fe-cb67ebe43e46",
+      "date": "2026-06-21",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "28e70b7d-661b-436e-aa67-6a4b43269b5b",
+      "date": "2026-06-27",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "0b38961b-1d27-4aaf-94b5-ce3c556b2640",
+      "date": "2026-06-28",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "8fdc13cd-5b2a-4fce-995c-430fd1d1165a",
+      "date": "2026-07-04",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "38d43926-849c-4e90-b330-dc8a475ba18f",
+      "date": "2026-07-05",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "7d6d4460-cf21-4767-a0d4-c99088c34fc7",
+      "date": "2026-07-11",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "13c6d1df-c7a2-432e-9aaf-95a6027f075d",
+      "date": "2026-07-12",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "51a85726-f9e1-4cce-b29f-6ae49427946e",
+      "date": "2026-07-18",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "a303c047-5947-42c8-a6da-51a691c707cc",
+      "date": "2026-07-19",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "90e0e253-ff7b-4884-98de-fe2c64bbfdcd",
+      "date": "2026-07-25",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "018f1c6f-4d18-42cf-9d83-12ecf13e748e",
+      "date": "2026-07-26",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "268b98f0-4094-4ba7-8b49-cf614c28c004",
+      "date": "2026-08-01",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "bbe11eb8-8bb1-418e-bc8d-798b118c3e5c",
+      "date": "2026-08-02",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "a0b01e17-5fea-4d81-8433-8a248e793a4a",
+      "date": "2026-08-08",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "4e4f7b69-a9f8-464e-8096-0b135032bbc8",
+      "date": "2026-08-09",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "0a4a19e9-c3da-4192-ad9c-d56ad9bcf793",
+      "date": "2026-08-15",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "47c943f8-d1c1-44e5-80ac-bedbedf93af0",
+      "date": "2026-08-16",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "10ad17b7-a84d-444e-b0f9-fa9c7231f0da",
+      "date": "2026-08-22",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "30b68c81-889d-4f1e-8fc6-1acc470bd6be",
+      "date": "2026-08-23",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "88489d8d-f5a3-4852-ba0c-2e7b3afab69c",
+      "date": "2026-08-29",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "5d18672a-508f-4da0-b927-d9f9ce64d913",
+      "date": "2026-08-30",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "848bb0f5-e8f9-4b35-859e-3c5c031f6693",
+      "date": "2026-09-05",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "52ca2c05-cd6c-4fdb-8b83-55dcf61ae726",
+      "date": "2026-09-06",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "0b7cc426-0dcb-4fa1-8c99-c71c785c899e",
+      "date": "2026-09-12",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    },
+    {
+      "id": "eec13b8e-729e-4b7b-8982-1df4408cf6ce",
+      "date": "2026-09-13",
+      "spaceId": "lago",
+      "start": "09:00",
+      "end": "10:00",
+      "activityId": "canoa-base-1781135766851",
+      "technicianId": "daniele-molmenti-1781136102006",
+      "notes": ""
+    }
+  ]
+}

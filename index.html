@@ -1,0 +1,210 @@
+<!doctype html>
+<html lang="it">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Battirame | Calendario attività</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="topbar">
+      <div class="brand">
+        <div class="brand-mark" aria-hidden="true"></div>
+        <div>
+          <h1>Battirame</h1>
+          <p>Calendario spazi e attività</p>
+        </div>
+      </div>
+      <nav class="tabs" aria-label="Vista">
+        <button class="tab is-active" data-view="calendar" type="button">Calendario</button>
+        <button class="tab" data-view="backoffice" type="button">Backoffice</button>
+      </nav>
+    </header>
+
+    <main>
+      <section id="calendarView" class="view is-visible" aria-labelledby="calendarTitle">
+        <div class="toolbar">
+          <div>
+            <h2 id="calendarTitle">Programma settimanale</h2>
+            <p id="weekLabel"></p>
+          </div>
+          <div class="toolbar-actions">
+            <button class="icon-button" id="prevWeek" type="button" aria-label="Settimana precedente" title="Settimana precedente">‹</button>
+            <button class="button secondary" id="todayWeek" type="button">Oggi</button>
+            <button class="icon-button" id="nextWeek" type="button" aria-label="Settimana successiva" title="Settimana successiva">›</button>
+          </div>
+        </div>
+
+        <div class="filters" aria-label="Filtri calendario">
+          <label>
+            Spazio
+            <select id="spaceFilter"></select>
+          </label>
+          <label>
+            Attività
+            <select id="activityFilter"></select>
+          </label>
+          <label>
+            Tecnico
+            <select id="technicianFilter"></select>
+          </label>
+        </div>
+
+        <div class="calendar-shell">
+          <div id="calendarGrid" class="calendar-grid" aria-live="polite"></div>
+        </div>
+      </section>
+
+      <section id="backofficeView" class="view" aria-labelledby="backofficeTitle">
+        <div class="toolbar">
+          <div>
+            <h2 id="backofficeTitle">Organizzazione giornate</h2>
+            <p>Definisci attività, tecnici e slot orari per ogni spazio.</p>
+          </div>
+        </div>
+
+        <form id="loginForm" class="panel login-panel">
+          <h3>Accesso backoffice</h3>
+          <div class="login-grid">
+            <label>
+              Password
+              <input id="adminPassword" type="password" autocomplete="current-password" required />
+            </label>
+            <button class="button" type="submit">Entra</button>
+          </div>
+          <p id="loginMessage" class="message" role="status"></p>
+        </form>
+
+        <div id="adminContent" hidden>
+          <div class="admin-session">
+            <span>Backoffice attivo</span>
+            <div class="admin-session-actions">
+              <button class="button secondary" id="backupButton" type="button">Scarica backup</button>
+              <label class="button secondary upload-button">
+                Carica backup
+                <input id="restoreBackupInput" type="file" accept="application/json,.json" />
+              </label>
+              <button class="button secondary" id="logoutButton" type="button">Esci</button>
+            </div>
+          </div>
+
+          <div class="admin-layout">
+            <form id="slotForm" class="panel">
+              <h3>Nuovo orario</h3>
+              <input type="hidden" id="slotId" />
+              <div class="form-grid">
+                <label>
+                  Data
+                  <input id="slotDate" type="date" required />
+                </label>
+                <label>
+                  Spazio
+                  <select id="slotSpace" required></select>
+                </label>
+                <label>
+                  Inizio
+                  <input id="slotStart" type="time" required />
+                </label>
+                <label>
+                  Fine
+                  <input id="slotEnd" type="time" required />
+                </label>
+                <label>
+                  Attività
+                  <select id="slotActivity" required></select>
+                </label>
+                <label>
+                  Tecnico responsabile
+                  <select id="slotTechnician" required></select>
+                </label>
+                <label class="wide">
+                  Note pubbliche
+                  <input id="slotNotes" type="text" placeholder="Es. portare tappetino, ritrovo al lago..." />
+                </label>
+                <fieldset class="wide repeat-box">
+                  <legend>Ripeti su più giorni</legend>
+                  <label>
+                    Fino al
+                    <input id="slotRepeatUntil" type="date" />
+                  </label>
+                  <div class="weekday-grid" aria-label="Giorni di ripetizione">
+                    <label><input type="checkbox" name="repeatDay" value="1" /> Lun</label>
+                    <label><input type="checkbox" name="repeatDay" value="2" /> Mar</label>
+                    <label><input type="checkbox" name="repeatDay" value="3" /> Mer</label>
+                    <label><input type="checkbox" name="repeatDay" value="4" /> Gio</label>
+                    <label><input type="checkbox" name="repeatDay" value="5" /> Ven</label>
+                    <label><input type="checkbox" name="repeatDay" value="6" /> Sab</label>
+                    <label><input type="checkbox" name="repeatDay" value="0" /> Dom</label>
+                  </div>
+                </fieldset>
+              </div>
+              <div class="form-actions">
+                <button class="button" type="submit">Salva orario</button>
+                <button class="button secondary" id="clearSlot" type="button">Pulisci</button>
+              </div>
+              <p id="formMessage" class="message" role="status"></p>
+            </form>
+
+            <div class="panel">
+              <h3>Attività disponibili</h3>
+              <form id="activityForm" class="inline-form">
+                <input id="activityName" type="text" placeholder="Nome attività" required />
+                <input id="activityColor" type="color" value="#0f7c65" aria-label="Colore attività" />
+                <button class="icon-button" type="submit" aria-label="Aggiungi attività" title="Aggiungi attività">+</button>
+              </form>
+              <div id="activityList" class="chip-list"></div>
+            </div>
+
+            <div class="panel">
+              <h3>Tecnici</h3>
+              <form id="technicianForm" class="inline-form">
+                <input id="technicianName" type="text" placeholder="Nome tecnico" required />
+                <button class="icon-button" type="submit" aria-label="Aggiungi tecnico" title="Aggiungi tecnico">+</button>
+              </form>
+              <div id="technicianList" class="chip-list"></div>
+            </div>
+          </div>
+
+          <section class="panel full">
+            <div class="list-heading">
+              <h3>Orari programmati</h3>
+              <span id="slotCount"></span>
+            </div>
+            <div class="admin-filters" aria-label="Filtri orari programmati">
+              <label>
+                Filtra per stanza/spazio
+                <select id="adminSpaceFilter"></select>
+              </label>
+              <label>
+                Filtra per sport/attività
+                <select id="adminActivityFilter"></select>
+              </label>
+              <label>
+                Filtra per tecnico
+                <select id="adminTechnicianFilter"></select>
+              </label>
+            </div>
+            <div id="slotList" class="slot-list"></div>
+          </section>
+        </div>
+      </section>
+    </main>
+
+    <template id="slotCardTemplate">
+      <article class="slot-card">
+        <div class="slot-color"></div>
+        <div class="slot-body">
+          <strong></strong>
+          <span></span>
+          <small></small>
+        </div>
+        <div class="slot-actions">
+          <button class="mini-button edit" type="button">Modifica</button>
+          <button class="mini-button danger delete" type="button">Elimina</button>
+        </div>
+      </article>
+    </template>
+
+    <script src="app.js"></script>
+  </body>
+</html>
