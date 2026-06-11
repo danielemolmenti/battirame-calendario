@@ -8,6 +8,7 @@ const spaces = [
 let state = { activities: [], technicians: [], slots: [] };
 let isAuthenticated = false;
 let weekStart = startOfWeek(new Date());
+const compactDays = window.matchMedia("(max-width: 720px)");
 
 const els = {
   tabs: document.querySelectorAll(".tab"),
@@ -148,6 +149,10 @@ function formatDate(date, options = {}) {
   return new Intl.DateTimeFormat("it-IT", options).format(date);
 }
 
+function dayLabel(date) {
+  return formatDate(date, { weekday: compactDays.matches ? "short" : "long" }).replace(".", "");
+}
+
 function getById(list, id) {
   return list.find((item) => item.id === id);
 }
@@ -206,7 +211,7 @@ function renderCalendar() {
   days.forEach((day) => {
     const head = document.createElement("div");
     head.className = "day-head";
-    head.innerHTML = `<strong>${formatDate(day, { weekday: "long" })}</strong><span>${formatDate(day, { day: "2-digit", month: "2-digit" })}</span>`;
+    head.innerHTML = `<strong>${dayLabel(day)}</strong><span>${formatDate(day, { day: "2-digit", month: "2-digit" })}</span>`;
     els.calendarGrid.append(head);
   });
 
@@ -453,6 +458,8 @@ function bindEvents() {
     weekStart = startOfWeek(new Date());
     renderCalendar();
   });
+
+  compactDays.addEventListener("change", renderCalendar);
 
   els.loginForm.addEventListener("submit", async (event) => {
     event.preventDefault();
